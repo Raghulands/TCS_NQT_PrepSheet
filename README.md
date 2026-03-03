@@ -17,9 +17,3 @@ The goal of this project is to:
 ## Project Structure
 - `/java` → Contains Java programs organized by concept or problem type
 - `/python` → Contains Python scripts focused on readability and quick experimentation
-
-## How to Run
-
-### Java
-1. Navigate to the `java` directory
-2. Compile:
